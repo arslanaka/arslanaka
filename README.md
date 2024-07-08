@@ -30,14 +30,16 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=arslanaka&style=flat-square&color=blue" alt=""/>
 
 
-About Me
-👋 Hi there! I'm Muhammad Arslan, a passionate software engineer with over 3 years of experience in designing and developing robust applications. My expertise lies in Java, Spring Boot, microservices architecture, and security.
+👋 Hi there! I'm Muhammad Arslan, a passionate software engineer with over 3 years of experience in designing and developing robust applications. 
+My expertise lies in Java, Spring Boot, microservices architecture, and security.
 
 🔧 Technologies & Tools:
+
 Languages: Java, Kotlin, Python
 Frameworks: Spring Boot, Spring Cloud, Hibernate
 Database: MySQL, Redis
 Other Skills: Android Development, Docker, Git
+
 🌱 Currently Learning:
 Exploring AI and machine learning to enhance my skills in predictive analytics.
 
