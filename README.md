@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=arslanaka&style=flat-square&color=blue" alt=""/>
 
 
-👋 Hi there! I'm Muhammad Arslan, a passionate software engineer with over 3 years of experience in designing and developing robust applications. 
+👋 Hi there! I'm Muhammad Arslan, a passionate software engineer with over 4 years of experience in designing and developing robust applications. 
 My expertise lies in Java, Spring Boot, microservices architecture, and security.
 
 🔧 Technologies & Tools:
