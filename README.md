@@ -37,12 +37,11 @@ My expertise lies in Java, Spring Boot, microservices architecture, and security
 
 Languages: Java, Kotlin, Python
 Frameworks: Spring Boot, Spring Cloud, Hibernate
-Database: MySQL, Redis
+Database: MySQL, Redis, PostgreSQL, MongoDB
 Other Skills: Android Development, Docker, Git
 
 🌱 Currently Learning:
-Exploring AI and machine learning to enhance my skills in predictive analytics.
-
+Exploring AI and machine learning to enhance my skills
 
 
 
