@@ -44,9 +44,8 @@ Other Skills: Android Development, Docker, Git
 Exploring AI and machine learning to enhance my skills
 
 
-<!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arslanaka&theme=dark&hide_border=true)](https://git.io/streak-stats)
--->
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arslanaka&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
